@@ -20,3 +20,7 @@ This project allows users to customize their pizza by selecting the size, crust 
 - .NET
 - Windows Forms
 - Visual Studio
+
+## Screenshot
+
+![Pizza Order WinForms](screenshot.png)
